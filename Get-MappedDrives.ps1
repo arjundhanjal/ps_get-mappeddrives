@@ -1,5 +1,5 @@
 <#
-Get-MappedDrives v2
+Get-MappedDrives v2.1
 Developed by Arjun Dhanjal
 March 2015
 
@@ -7,7 +7,7 @@ Usage: .\Get-MappedDrives.ps1 -ComputerName <Workstation Name> -SamAccountName <
 
 CHANGELOG:
   v2: Script rewritten from batch file to PowerShell script.
-  v1: Original script written for Scotiabank as a *.bat.
+  v1: Original script written as a *.bat.
 #>
 
 [CmdletBinding()]

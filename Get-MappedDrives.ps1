@@ -3,7 +3,7 @@ Get-MappedDrives v2
 Developed by Arjun Dhanjal
 March 2015
 
-Usage: .\Get-MappedDrives.ps1 -ComputerName <Workstation Name>
+Usage: .\Get-MappedDrives.ps1 -ComputerName <Workstation Name> -SamAccountName <Target User>
 
 CHANGELOG:
   v2: Script rewritten from batch file to PowerShell script.
